@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Programista88
-- 👀 I’m interested in c# and Martial Arts
+- 👋 Hi, I’m Maciar
+- 👀 I’m interested in programming  and Martial Arts
 - 🌱 I’m currently learning js,lua
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me 
+- 
+-
 
 <!---
 Programista88/Programista88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
