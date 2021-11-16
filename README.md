@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maciar
-- 👀 I’m interested in programming  and Martial Arts
+- 👀 I’m interested in crypto
 - 🌱 I’m currently learning js,lua
 - 
 -
