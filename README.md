@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maciar
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning js,lua
+- 👀 I’m interested in Women
+- 🌱 I’m currently learning html,css,js,lua,c++
 - 
 -
 
