@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Maciar
-- 👀 I’m interested in Women
-- 🌱 I’m currently learning html,css,js,lua,c++
+-  siema jestem Maciar
+-  kobiety jedyne zainteresowanie
+-  html,css,js,lua,c++
+-  suko  na kolana i rob loda ale nie w kosciele bo juz nie jest na to moda
 - 
 -
 
